@@ -1,0 +1,101 @@
+org_athlete_name,category,role_contact_title,public_website,public_email,linkedin_or_company_page,region,notes,priority,email_confidence,source
+University of Virginia Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://virginiasports.com/,,,"Charlottesville, VA",Conference/context: ACC. Staff emails only if listed on official directory — do not invent.,high,none,official athletics site
+Virginia Tech Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://hokiesports.com/,,,"Blacksburg, VA",Conference/context: ACC. Staff emails only if listed on official directory — do not invent.,high,none,official athletics site
+Old Dominion University Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://odusports.com/,,,"Norfolk, VA / Hampton Roads",Conference/context: Sun Belt. Staff emails only if listed on official directory — do not invent.,high,none,official athletics site
+William & Mary Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://tribeathletics.com/,,,"Williamsburg, VA / Hampton Roads",Conference/context: CAA. Staff emails only if listed on official directory — do not invent.,high,none,official athletics site
+James Madison University Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://jmusports.com/,,,"Harrisonburg, VA",Conference/context: Sun Belt. Staff emails only if listed on official directory — do not invent.,high,none,official athletics site
+George Mason Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://gomason.com/,,,"Fairfax, VA",Conference/context: A-10. Staff emails only if listed on official directory — do not invent.,medium,none,official athletics site
+VCU Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://vcuathletics.com/,,,"Richmond, VA",Conference/context: A-10. Staff emails only if listed on official directory — do not invent.,medium,none,official athletics site
+Norfolk State Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://nsuspartans.com/,,,"Norfolk, VA / Hampton Roads",Conference/context: MEAC. Staff emails only if listed on official directory — do not invent.,high,none,official athletics site
+Hampton University Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://hamptonpirates.com/,,,"Hampton, VA / Hampton Roads",Conference/context: CAA. Staff emails only if listed on official directory — do not invent.,high,none,official athletics site
+Regent University Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://www.regentroyals.com/,,,"Virginia Beach, VA / Hampton Roads",Conference/context: NCCAA/other. Staff emails only if listed on official directory — do not invent.,medium,none,official athletics site
+Christopher Newport Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://cnusports.com/,,,"Newport News, VA / Hampton Roads",Conference/context: C2C (DIII). Staff emails only if listed on official directory — do not invent.,medium,none,official athletics site
+Virginia Wesleyan Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://vwuathletics.com/,,,"Virginia Beach, VA",Conference/context: ODAC (DIII). Staff emails only if listed on official directory — do not invent.,medium,none,official athletics site
+Liberty University Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://www.libertyflames.com/,,,"Lynchburg, VA",Conference/context: CUSA. Staff emails only if listed on official directory — do not invent.,medium,none,official athletics site
+Radford Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://ruhighlanders.com/,,,"Radford, VA",Conference/context: Big South. Staff emails only if listed on official directory — do not invent.,low,none,official athletics site
+Longwood Athletics,NIL school,Athletic Director / NIL / External Relations (see staff directory on site),https://longwoodlancers.com/,,,"Farmville, VA",Conference/context: Big South. Staff emails only if listed on official directory — do not invent.,low,none,official athletics site
+University of North Carolina Athletics,NIL school,NIL / Compliance / External Relations,https://goheels.com/,,,"Chapel Hill, NC",ACC peer,medium,none,official athletics site
+Duke Athletics,NIL school,NIL / Compliance / External Relations,https://goduke.com/,,,"Durham, NC",ACC peer,medium,none,official athletics site
+NC State Athletics,NIL school,NIL / Compliance / External Relations,https://gopack.com/,,,"Raleigh, NC",ACC peer,medium,none,official athletics site
+Wake Forest Athletics,NIL school,NIL / Compliance / External Relations,https://godeacs.com/,,,"Winston-Salem, NC",ACC peer,medium,none,official athletics site
+Clemson Athletics,NIL school,NIL / Compliance / External Relations,https://clemsontigers.com/,,,"Clemson, SC",ACC peer,medium,none,official athletics site
+Florida State Athletics,NIL school,NIL / Compliance / External Relations,https://seminoles.com/,,,"Tallahassee, FL",ACC peer,medium,none,official athletics site
+Miami Athletics,NIL school,NIL / Compliance / External Relations,https://miamihurricanes.com/,,,"Coral Gables, FL",ACC peer,medium,none,official athletics site
+Georgia Tech Athletics,NIL school,NIL / Compliance / External Relations,https://ramblinwreck.com/,,,"Atlanta, GA",ACC peer,medium,none,official athletics site
+Louisville Athletics,NIL school,NIL / Compliance / External Relations,https://gocards.com/,,,"Louisville, KY",ACC peer,medium,none,official athletics site
+Pittsburgh Athletics,NIL school,NIL / Compliance / External Relations,https://pittsburghpanthers.com/,,,"Pittsburgh, PA",ACC peer,medium,none,official athletics site
+Syracuse Athletics,NIL school,NIL / Compliance / External Relations,https://cuse.com/,,,"Syracuse, NY",ACC peer,medium,none,official athletics site
+Boston College Athletics,NIL school,NIL / Compliance / External Relations,https://bceagles.com/,,,"Chestnut Hill, MA",ACC peer,medium,none,official athletics site
+Notre Dame Athletics,NIL school,NIL / Compliance / External Relations,https://und.com/,,,"Notre Dame, IN",ACC football / multi,medium,none,official athletics site
+SMU Athletics,NIL school,NIL / Compliance / External Relations,https://smumustangs.com/,,,"Dallas, TX",ACC peer,medium,none,official athletics site
+California Athletics,NIL school,NIL / Compliance / External Relations,https://calbears.com/,,,"Berkeley, CA",ACC peer,medium,none,official athletics site
+Stanford Athletics,NIL school,NIL / Compliance / External Relations,https://gostanford.com/,,,"Stanford, CA",ACC peer,medium,none,official athletics site
+Washington Commanders,pro team,Communications / Brand Protection / Security (media guide),https://www.commanders.com/,,,"Landover, MD / DMV",NFL · regional to VA,medium,none,official team site
+Washington Capitals,pro team,Communications / Brand Protection / Security (media guide),https://www.nhl.com/capitals/,,,"Washington, DC",NHL,low,none,official team site
+Washington Wizards,pro team,Communications / Brand Protection / Security (media guide),https://www.nba.com/wizards/,,,"Washington, DC",NBA,low,none,official team site
+DC United,pro team,Communications / Brand Protection / Security (media guide),https://www.dcunited.com/,,,"Washington, DC",MLS,low,none,official team site
+Baltimore Ravens,pro team,Communications / Brand Protection / Security (media guide),https://www.baltimoreravens.com/,,,"Baltimore, MD",NFL,low,none,official team site
+Baltimore Orioles,pro team,Communications / Brand Protection / Security (media guide),https://www.mlb.com/orioles,,,"Baltimore, MD",MLB,low,none,official team site
+Carolina Panthers,pro team,Communications / Brand Protection / Security (media guide),https://www.panthers.com/,,,"Charlotte, NC",NFL,medium,none,official team site
+Charlotte FC,pro team,Communications / Brand Protection / Security (media guide),https://www.charlottefootballclub.com/,,,"Charlotte, NC",MLS,medium,none,official team site
+Charlotte Hornets,pro team,Communications / Brand Protection / Security (media guide),https://www.nba.com/hornets,,,"Charlotte, NC",NBA,medium,none,official team site
+Atlanta Falcons,pro team,Communications / Brand Protection / Security (media guide),https://www.atlantafalcons.com/,,,"Atlanta, GA",NFL,low,none,official team site
+Atlanta Hawks,pro team,Communications / Brand Protection / Security (media guide),https://www.nba.com/hawks,,,"Atlanta, GA",NBA,low,none,official team site
+Atlanta United FC,pro team,Communications / Brand Protection / Security (media guide),https://www.atlutd.com/,,,"Atlanta, GA",MLS,low,none,official team site
+Dallas Cowboys,pro team,Communications / Brand Protection / Security (media guide),https://www.dallascowboys.com/,,,"Dallas, TX",NFL national brand,low,none,official team site
+New York Yankees,pro team,Communications / Brand Protection / Security (media guide),https://www.mlb.com/yankees,,,"New York, NY",MLB,low,none,official team site
+Los Angeles Lakers,pro team,Communications / Brand Protection / Security (media guide),https://www.nba.com/lakers,,,"Los Angeles, CA",NBA,low,none,official team site
+Golden State Warriors,pro team,Communications / Brand Protection / Security (media guide),https://www.nba.com/warriors,,,"San Francisco, CA",NBA,low,none,official team site
+Kansas City Chiefs,pro team,Communications / Brand Protection / Security (media guide),https://www.chiefs.com/,,,"Kansas City, MO",NFL,low,none,official team site
+Philadelphia Eagles,pro team,Communications / Brand Protection / Security (media guide),https://www.philadelphiaeagles.com/,,,"Philadelphia, PA",NFL,low,none,official team site
+Boston Celtics,pro team,Communications / Brand Protection / Security (media guide),https://www.nba.com/celtics,,,"Boston, MA",NBA,low,none,official team site
+Chicago Bulls,pro team,Communications / Brand Protection / Security (media guide),https://www.nba.com/bulls,,,"Chicago, IL",NBA,low,none,official team site
+Excel Sports Management,agency,Partnerships / Athlete Marketing,https://excelsm.com/,,,National,Talent agency,medium,none,official company site
+CAA Sports,agency,Partnerships / Athlete Marketing,https://www.caa.com/,,,National,Creative Artists Agency — Sports,medium,none,official company site
+Wasserman,agency,Partnerships / Athlete Marketing,https://www.teamwass.com/,,,National,Wasserman / Team Wass,medium,none,official company site
+Klutch Sports Group,agency,Partnerships / Athlete Marketing,https://klutchsports.com/,,,National,Athlete management,medium,none,official company site
+Athletes First,agency,Partnerships / Athlete Marketing,https://www.athletesfirst.net/,,,National,Football agency,medium,none,official company site
+Opendorse,agency,Partnerships / Athlete Marketing,https://opendorse.com/,,,"National / Lincoln, NE",NIL marketplace — partner/competitor adjacency,medium,none,official company site
+INFLCR / Teamworks,agency,Partnerships / Athlete Marketing,https://www.teamworks.com/,,,National,Athlete brand tools for schools,medium,none,official company site
+The Collective (UVA-adjacent NIL collectives — verify current legal entity),agency,Partnerships / Athlete Marketing,https://virginiasports.com/,,,Virginia,Use official school NIL page to identify current collective partners — names change; verify before outreach.,medium,none,official company site
+Hampton Roads Economic Development Alliance (HREDA / The Virginia Peninsula),HNWI family office,Corporate Communications / Executive Protection (public),https://www.virginia.org/,,,"Hampton Roads, VA","Regional economic / relocation network — intro path, not a FO. No invented emails.",medium,none,official public site
+Virginia Beach Economic Development,HNWI family office,Corporate Communications / Executive Protection (public),https://www.yesvirginiabeach.com/,,,"Virginia Beach, VA",Public ED site; warm intros to family offices via network. No invented emails.,medium,none,official public site
+Norfolk Department of Economic Development,HNWI family office,Corporate Communications / Executive Protection (public),https://www.norfolk.gov/161/Economic-Development,,,"Norfolk, VA",Public municipal ED. No invented emails.,medium,none,official public site
+Navy Federal Credit Union (headquarters region awareness),HNWI family office,Corporate Communications / Executive Protection (public),https://www.navyfederal.org/,,,"Vienna, VA / military-adjacent",Military-adjacent brand; outreach only via public corp contacts. No invented emails.,medium,none,official public site
+Huntington Ingalls Industries,HNWI family office,Corporate Communications / Executive Protection (public),https://huntingtoningalls.com/,,,"Newport News, VA / Hampton Roads",Major Hampton Roads employer — executive protection adjacency. No invented emails.,medium,none,official public site
+Smithfield Foods,HNWI family office,Corporate Communications / Executive Protection (public),https://www.smithfieldfoods.com/,,,"Smithfield, VA",Regional corporate brand. No invented emails.,medium,none,official public site
+Dollar Tree (Chesapeake HQ),HNWI family office,Corporate Communications / Executive Protection (public),https://www.dollartree.com/,,,"Chesapeake, VA / Hampton Roads",Corporate HQ in Hampton Roads. No invented emails.,medium,none,official public site
+Ferguson Enterprises,HNWI family office,Corporate Communications / Executive Protection (public),https://www.ferguson.com/,,,"Newport News area, VA",Regional corporate. No invented emails.,medium,none,official public site
+The Athletic (NYT),agency,Editorial / partnerships,https://theathletic.com/,,,National,Sports media — not a buyer; awareness,low,none,official site
+Front Office Sports,agency,Editorial / partnerships,https://frontofficesports.com/,,,National,Sports business media,low,none,official site
+Sports Business Journal,agency,Editorial / partnerships,https://www.sportsbusinessjournal.com/,,,National,Industry media,low,none,official site
+United States Naval Academy Athletics,NIL school,Athletics Communications,https://navysports.com/,,,"Annapolis, MD / military-adjacent",Service academy — special compliance; public athletics site only,high,none,official athletics site
+VMI Athletics,NIL school,Athletics Communications,https://vmikeydets.com/,,,"Lexington, VA / military-adjacent",Virginia Military Institute,high,none,official athletics site
+Richmond Spiders Athletics,NIL school,NIL / External,https://richmondspiders.com/,,,"Richmond, VA",A-10,medium,none,official athletics site
+East Carolina Athletics,NIL school,NIL / External,https://ecupirates.com/,,,"Greenville, NC",AAC · eastern NC network,medium,none,official athletics site
+Appalachian State Athletics,NIL school,NIL / External,https://appstatesports.com/,,,"Boone, NC",Sun Belt,low,none,official athletics site
+Coastal Carolina Athletics,NIL school,NIL / External,https://goccusports.com/,,,"Conway, SC",Sun Belt,low,none,official athletics site
+Virginia Sports Properties / Learfield (school media rights — verify current),agency,Partnerships,https://www.learfield.com/,,,National / VA schools,Campus media rights — brand protection adjacency,medium,none,official company site
+Playfly Sports,agency,Partnerships,https://playfly.com/,,,National,Sports marketing / media,low,none,official company site
+Octagon,agency,Athlete Marketing,https://www.octagon.com/,,,National / McLean VA HQ historically,Sports & entertainment marketing — DMV presence,high,none,official company site
+Wasserman Football / Soccer desks,agency,Agent / Marketing,https://www.teamwass.com/,,,National,Duplicate parent already listed — desk-level outreach via public site,low,none,official company site
+New York Giants,pro team,Communications,https://www.giants.com/,,,"East Rutherford, NJ",NFL,low,none,official team site
+New England Patriots,pro team,Communications,https://www.patriots.com/,,,"Foxborough, MA",NFL,low,none,official team site
+Miami Dolphins,pro team,Communications,https://www.miamidolphins.com/,,,"Miami Gardens, FL",NFL,low,none,official team site
+Tampa Bay Buccaneers,pro team,Communications,https://www.buccaneers.com/,,,"Tampa, FL",NFL,low,none,official team site
+Orlando Magic,pro team,Communications,https://www.nba.com/magic,,,"Orlando, FL",NBA,low,none,official team site
+Inter Miami CF,pro team,Communications / Brand,https://www.intermiamicf.com/,,,"Miami, FL",MLS high-visibility brand,medium,none,official team site
+Nashville SC,pro team,Communications,https://www.nashvillesc.com/,,,"Nashville, TN",MLS,low,none,official team site
+Tennessee Titans,pro team,Communications,https://www.tennesseetitans.com/,,,"Nashville, TN",NFL,low,none,official team site
+Portsmouth Naval Shipyard / Norfolk Naval Station awareness (public PAO only),HNWI family office,Public Affairs (do not cold-email ops),https://www.cnrma.cnic.navy.mil/,,,"Hampton Roads, VA / military",Military installations — only public PA channels; veterans network intros preferred,medium,none,official Navy public site
+Sentara Healthcare,HNWI family office,Corporate Communications,https://www.sentara.com/,,,"Norfolk, VA / Hampton Roads",Major regional employer / brand,medium,none,official company site
+TowneBank,HNWI family office,Corporate Communications,https://www.townebank.com/,,,"Portsmouth / Hampton Roads, VA",Regional bank — HNWI adjacency,medium,none,official company site
+PRA Group,HNWI family office,Investor Relations / Comms,https://www.pragroup.com/,,,"Norfolk, VA",Public company HQ in Norfolk,low,none,official company site
+ST Engineering / Newport News industrial adjacency,HNWI family office,Corporate Communications,https://www.stengg.com/,,,Hampton Roads / global,Verify local entities before outreach,low,none,official company site
+Virginia Aquarium & Marine Science Center Foundation network,HNWI family office,Development / Board (public),https://www.virginiaaquarium.com/,,,"Virginia Beach, VA",Philanthropy network intros,low,none,official site
+Bryant & Stratton / regional private education brands,NIL school,Athletics if any / Student life,https://www.bryantstratton.edu/,,,"Hampton Roads, VA",Low priority — verify athletics relevance,low,none,official site
+ECU / ODU / NSU multi-school NIL collective research list,agency,Collective operators (verify),https://odusports.com/,,,Hampton Roads / eastern NC,Collectives change legal names — verify via school NIL pages before contact,high,none,school NIL pages
+ACC Network / ESPN college sports desk,agency,Talent relations (media),https://www.espn.com/watch/acc-network/,,,National,Not a buyer — awareness / talent exposure,low,none,official media
+NCAA,NIL school,Eligibility / NIL policy (public),https://www.ncaa.org/,,,National / Indianapolis,"Policy context, not a sales target",low,none,official site
+Atlantic Coast Conference Office,NIL school,Communications,https://theacc.com/,,,"Charlotte, NC",Conference office — warm intros to member schools,high,none,official conference site
+Sun Belt Conference,NIL school,Communications,https://sunbeltsports.org/,,,"New Orleans, LA / ODU-JMU members",ODU/JMU membership path,medium,none,official conference site
