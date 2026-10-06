@@ -6,7 +6,7 @@ export default function LandingPage() {
     <div className="hero-glow">
       <header>
         <div className="container" style={{ padding: "1.25rem 0", display: "flex", justifyContent: "space-between", alignItems: "center", gap: "1rem" }}>
-          <strong style={{ fontSize: "1.1rem" }}>Acunto Brand Guard</strong>
+          <strong style={{ fontSize: "1.1rem" }}>Harbor Shield</strong>
           <div style={{ display: "flex", gap: "0.6rem" }}>
             <Link className="btn btn-ghost" href="/login">Demo login</Link>
             <a className="btn btn-primary" href="#pilot">Request pilot</a>
@@ -18,7 +18,7 @@ export default function LandingPage() {
         <section style={{ padding: "3.5rem 0 2.5rem", maxWidth: 780 }}>
           <div className="badge sev-info" style={{ marginBottom: "1rem" }}>MVP · Public web only</div>
           <h1 style={{ fontSize: "clamp(2rem, 5vw, 3.2rem)", lineHeight: 1.1, letterSpacing: "-0.03em", margin: "0 0 1rem" }}>
-            Executive brand monitoring for NIL, pro teams, and high-net-worth clients.
+            Guarding NIL athletes, pro teams, and high-net-worth clients — public-web brand protection that watches so you don’t have to.
           </h1>
           <p className="muted" style={{ fontSize: "1.15rem", lineHeight: 1.55, marginBottom: "1.5rem" }}>
             Catch impersonators, lookalike domains, fake merch, leaks that hit the public web, and pile-ons —
@@ -37,7 +37,7 @@ export default function LandingPage() {
           {[
             ["The problem", "Athletes, teams, and principals learn about scams and impersonation too late — after money or trust is already gone."],
             ["Who it's for", "NIL athletes & agents, college athletic departments, pro teams, talent agencies, and HNWI / family offices."],
-            ["The boundary", "We monitor publicly available information and subscriber-provided keywords only. No hacking. No private-account access."],
+            ["The boundary", "We monitor publicly available information and subscriber-provided keywords only. No hacking. Consented private-account access under NDA is planned for a later tier — not in this MVP."],
           ].map(([t, b]) => (
             <div className="card" key={t}>
               <h3 style={{ marginTop: 0 }}>{t}</h3>
@@ -99,7 +99,7 @@ export default function LandingPage() {
             {" · "}
             <a href="mailto:mattacunto@gmail.com" style={{ color: "var(--accent)" }}>mattacunto@gmail.com</a>
           </p>
-          <p>© {new Date().getFullYear()} Acunto Brand Guard · Matthew Acunto</p>
+          <p>© {new Date().getFullYear()} Harbor Shield · Matthew Acunto</p>
         </footer>
       </main>
     </div>

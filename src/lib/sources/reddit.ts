@@ -28,7 +28,7 @@ export async function runRedditSearch(subject: Subject): Promise<SourceRunResult
       res = await fetch(ep, {
         headers: {
           "User-Agent":
-            "Mozilla/5.0 (compatible; AcuntoBrandGuard/0.1; +https://acunto-brand-guard.vercel.app; public-search)",
+            "Mozilla/5.0 (compatible; HarborShield/0.1; +https://acunto-brand-guard.vercel.app; public-search)",
           Accept: "application/json,text/plain,*/*",
         },
         signal: AbortSignal.timeout(12000),

@@ -19,7 +19,7 @@ function defaultDb(): DbShape {
 function dataPath(): string | null {
   // Writable local path; on Vercel serverless /tmp is writable but ephemeral
   if (process.env.VERCEL) {
-    return path.join("/tmp", "abg-store.json");
+    return path.join("/tmp", "hshield-store.json");
   }
   return path.join(process.cwd(), "data", "store.json");
 }

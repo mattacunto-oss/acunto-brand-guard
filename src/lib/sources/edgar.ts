@@ -22,7 +22,7 @@ export async function runEdgarSearch(subject: Subject): Promise<SourceRunResult>
   try {
     const res = await fetch(url, {
       headers: {
-        "User-Agent": "AcuntoBrandGuard contact@example.com",
+        "User-Agent": "HarborShield contact@example.com",
         Accept: "application/json",
       },
       signal: AbortSignal.timeout(12000),

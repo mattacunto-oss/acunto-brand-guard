@@ -1,4 +1,6 @@
-# Acunto Brand Guard — Data Sources & APIs
+# Harbor Shield — Data Sources & APIs
+
+Product: **Harbor Shield** (guards / protects NIL, pro teams, and HNWI brands).
 
 All monitoring is limited to **publicly available information** and **subscriber-provided keywords**.  
 No hacking, no private/authenticated scraping, no paywall bypass, no stolen data.

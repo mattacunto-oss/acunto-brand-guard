@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Acunto Brand Guard — Executive Brand Monitoring",
+  title: "Harbor Shield — Guarding NIL, Teams & HNWI Brands",
   description:
-    "Executive brand monitoring for NIL, pro teams, and high-net-worth clients. Public-web monitoring only.",
+    "Harbor Shield guards NIL athletes, pro teams, and high-net-worth clients with public-web brand monitoring.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

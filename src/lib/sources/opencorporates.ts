@@ -18,7 +18,7 @@ export async function runOpenCorporates(subject: Subject): Promise<SourceRunResu
   }`;
   try {
     const res = await fetch(url, {
-      headers: { Accept: "application/json", "User-Agent": "AcuntoBrandGuard/0.1" },
+      headers: { Accept: "application/json", "User-Agent": "HarborShield/0.1" },
       signal: AbortSignal.timeout(12000),
     });
     if (!res.ok) {

@@ -5,7 +5,7 @@ import type { RawHit, SourceRunResult } from "./types";
 const parser = new Parser({
   timeout: 12000,
   headers: {
-    "User-Agent": "AcuntoBrandGuard/0.1 (+public-rss; demo monitoring)",
+    "User-Agent": "HarborShield/0.1 (+public-rss; demo monitoring)",
   },
 });
 

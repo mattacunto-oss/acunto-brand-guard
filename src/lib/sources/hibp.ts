@@ -31,7 +31,7 @@ export async function runHibp(subject: Subject): Promise<SourceRunResult> {
         {
           headers: {
             "hibp-api-key": key,
-            "user-agent": "AcuntoBrandGuard",
+            "user-agent": "HarborShield",
           },
           signal: AbortSignal.timeout(10000),
         }

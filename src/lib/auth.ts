@@ -1,6 +1,6 @@
 import { cookies } from "next/headers";
 
-const COOKIE = "abg_session";
+const COOKIE = "hshield_session";
 const DEMO_USER = "demo";
 const DEMO_PASS = "demo";
 

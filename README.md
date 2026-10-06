@@ -1,18 +1,21 @@
-# Acunto Brand Guard
+# Harbor Shield
 
 ## Live demo
 
 - **Production:** https://acunto-brand-guard.vercel.app
-- **Aliases:** https://acunto-brand-guard-vaultz.vercel.app
+- **Aliases:** https://acunto-brand-guard-vaultz.vercel.app · https://harbor-shield.vercel.app (if assigned)
+- **Vercel project:** `acunto-brand-guard` (rebranded in-place to Harbor Shield)
 - **GitHub:** https://github.com/mattacunto-oss/acunto-brand-guard
 - **Prospect Sheet:** https://docs.google.com/spreadsheets/d/1d7WdM2DyC_pkBhR6DSiJw9icnzg-rQjylHa2rXZchUg/edit
 - Demo login: `demo` / `demo`
 
 
 
-**Tagline:** Executive brand monitoring for NIL, pro teams, and high-net-worth clients.
+**Tagline:** Guarding NIL athletes, pro teams, and high-net-worth clients — public-web brand protection.
 
-MVP web app + public-source monitor pipeline for Matthew Acunto’s go-to-market.
+MVP web app + public-source monitor pipeline for Matthew Acunto’s Harbor Shield go-to-market.
+
+Planned (not in MVP): consented private-account monitoring under NDA.
 
 ## Legal boundaries (do not violate)
 

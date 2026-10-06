@@ -21,7 +21,7 @@ export async function GET() {
   const closed = alerts.filter((a) => a.status === "closed" || a.status === "actioned");
 
   const lines = [
-    `# Weekly Digest — Acunto Brand Guard`,
+    `# Weekly Digest — Harbor Shield`,
     ``,
     `Period: last 7 days · Generated ${new Date().toLocaleString("en-US", { timeZone: "America/New_York" })} ET`,
     ``,

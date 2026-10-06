@@ -26,7 +26,7 @@ export function DashboardNav() {
       <div className="container" style={{ padding: "1rem 0", display: "flex", justifyContent: "space-between", gap: "1rem", flexWrap: "wrap", alignItems: "center" }}>
         <div>
           <Link href="/" style={{ fontWeight: 800, letterSpacing: "-0.02em" }}>
-            Acunto Brand Guard
+            Harbor Shield
           </Link>
           <div className="muted" style={{ fontSize: "0.8rem" }}>
             Demo mode · public sources only
