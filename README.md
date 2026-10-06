@@ -2,9 +2,10 @@
 
 ## Live demo
 
-- **Production:** https://acunto-brand-guard.vercel.app
-- **Aliases:** https://acunto-brand-guard-vaultz.vercel.app · https://harbor-shield.vercel.app (if assigned)
-- **Vercel project:** `acunto-brand-guard` (rebranded in-place to Harbor Shield)
+- **Production (preferred):** https://harbor-shield.vercel.app
+- **Also live:** https://acunto-brand-guard.vercel.app
+- **Team alias:** https://acunto-brand-guard-vaultz.vercel.app
+- **Vercel project slug:** `acunto-brand-guard` (UI rebranded to Harbor Shield)
 - **GitHub:** https://github.com/mattacunto-oss/acunto-brand-guard
 - **Prospect Sheet:** https://docs.google.com/spreadsheets/d/1d7WdM2DyC_pkBhR6DSiJw9icnzg-rQjylHa2rXZchUg/edit
 - Demo login: `demo` / `demo`
@@ -79,6 +80,7 @@ Without keys, free public sources still run; AI falls back to templates.
 ## Prospects
 
 CSV: [`prospects/gtm-prospects.csv`](./prospects/gtm-prospects.csv)  
+Beta shortlist: [`prospects/beta-candidates.csv`](./prospects/beta-candidates.csv) · [`prospects/beta-candidates.md`](./prospects/beta-candidates.md)  
 ~100 rows focused on Virginia / ACC / Hampton Roads / military-adjacent + national pro teams.  
 **No invented emails.** LinkedIn only as public company URLs — no login scraping.
 
