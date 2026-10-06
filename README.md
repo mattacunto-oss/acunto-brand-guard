@@ -1,5 +1,15 @@
 # Acunto Brand Guard
 
+## Live demo
+
+- **Production:** https://acunto-brand-guard.vercel.app
+- **Aliases:** https://acunto-brand-guard-vaultz.vercel.app
+- **GitHub:** https://github.com/mattacunto-oss/acunto-brand-guard
+- **Prospect Sheet:** https://docs.google.com/spreadsheets/d/1d7WdM2DyC_pkBhR6DSiJw9icnzg-rQjylHa2rXZchUg/edit
+- Demo login: `demo` / `demo`
+
+
+
 **Tagline:** Executive brand monitoring for NIL, pro teams, and high-net-worth clients.
 
 MVP web app + public-source monitor pipeline for Matthew Acunto’s go-to-market.
