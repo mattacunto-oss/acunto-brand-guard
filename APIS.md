@@ -19,6 +19,9 @@ No hacking, no private/authenticated scraping, no paywall bypass, no stolen data
 ## ToS / rate-limit caveats
 
 1. **Google News RSS** — Unofficial query URLs (`news.google.com/rss/search?q=…`) are commonly used but **fragile** and may change or block automated clients. Prefer NewsAPI for production. Cache results; do not hammer.
+
+2b. **Reddit from cloud IPs** — `search.json` often returns HTTP 403 from datacenter/Vercel egress. Seeded demo alerts cover Reddit-style hits; for production use Reddit OAuth API or run the worker from a non-datacenter network.
+
 2. **Reddit** — Use a descriptive `User-Agent`, keep concurrency low, honor HTTP 429. Do not scrape logged-in or private content. Prefer official API for higher volume.
 3. **NewsAPI** — Free tier is for development; check commercial license before selling access to data.
 4. **Twitter/X** — Official API only; never scrape after login or bypass ToS.

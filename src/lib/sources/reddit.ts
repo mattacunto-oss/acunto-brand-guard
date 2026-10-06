@@ -16,15 +16,28 @@ function scoreReddit(title: string, body: string): RawHit["severity"] {
  */
 export async function runRedditSearch(subject: Subject): Promise<SourceRunResult> {
   const q = encodeURIComponent(subject.name);
-  const url = `https://www.reddit.com/search.json?q=${q}&sort=new&limit=10&type=link`;
+  const endpoints = [
+    `https://www.reddit.com/search.json?q=${q}&sort=new&limit=10&type=link`,
+    `https://old.reddit.com/search.json?q=${q}&sort=new&limit=10&type=link`,
+  ];
   try {
-    const res = await fetch(url, {
-      headers: {
-        "User-Agent": "AcuntoBrandGuard/0.1 (public search demo; contact: ops@example.com)",
-        Accept: "application/json",
-      },
-      signal: AbortSignal.timeout(12000),
-    });
+    let res: Response | null = null;
+    let url = endpoints[0];
+    for (const ep of endpoints) {
+      url = ep;
+      res = await fetch(ep, {
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (compatible; AcuntoBrandGuard/0.1; +https://acunto-brand-guard.vercel.app; public-search)",
+          Accept: "application/json,text/plain,*/*",
+        },
+        signal: AbortSignal.timeout(12000),
+      });
+      if (res.ok || res.status === 429) break;
+    }
+    if (!res) {
+      return { sourceId: "reddit", hits: [], skipped: true, reason: "Reddit fetch failed" };
+    }
     if (res.status === 429) {
       return {
         sourceId: "reddit",
